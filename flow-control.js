@@ -22,7 +22,7 @@ switch (age) {
   case expression: age <= 19 && age >= 13
     console.log("You are a teenager")
     break;
-  default: 
+  default:
   console.log ("You have an age")
 }
 }

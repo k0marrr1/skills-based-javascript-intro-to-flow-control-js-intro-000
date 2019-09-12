@@ -22,8 +22,8 @@ switch (age) {
   case age <= 19 && age >= 13:
     return ("You are a teenager")
     break;
-  default:
-  return ("You are a teenager")
+  default: age >= 19 && <=13
+  return ("You have an age")
 
 }
 }

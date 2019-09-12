@@ -23,7 +23,7 @@ switch (age) {
     return ("You have an age")
     break;
   default:
-  return ("You are a teenager")
+  return ("You are an age")
 
 }
 }
